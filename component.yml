@@ -1,7 +1,6 @@
-name: my_esp_component
-version: "1.2.0"   # <-- Change version
-description: "My first ESP-IDF component, updated"
-url: "https://github.com/Rafsan12345/my_esp_component"
+name: esp32_wifi_udp
+version: "1.1.0"
+description: "ESP32 WiFi Provisioning + UDP Broadcast helper"
 license: "MIT"
 
 dependencies:
