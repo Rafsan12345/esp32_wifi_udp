@@ -1,0 +1,9 @@
+name: my_esp_component
+version: "1.0.0"
+description: "My first ESP-IDF component"
+url: "https://github.com/Rafsan12345/my_esp_component"
+license: "MIT"
+
+dependencies:
+  idf:
+    version: ">=5.0"
