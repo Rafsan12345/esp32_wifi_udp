@@ -1,1 +1,1 @@
-# my_esp_component
+my_component
